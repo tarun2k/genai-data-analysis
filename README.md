@@ -1,6 +1,6 @@
 ## Data Cleaning and Analysis using Generative AI and Langchain
 
-Project Video: https://drive.google.com/file/d/1mhnUFWwz43UACaukhiR6pmHftvsz7C-9/view?usp=sharing
+Project Video: https://youtu.be/BrsWnL_efvM?si=pchki8Kv8BsmbUZ4
 
 The streamlit application has 3 pages
 
